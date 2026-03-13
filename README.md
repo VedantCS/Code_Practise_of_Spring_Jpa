@@ -56,7 +56,7 @@ Repository functionality and queries are verified using **repository test classe
 
 ###  Purpose of the Project
 
-This repository serves as a **hands-on learning resource for Spring Data JPA**, helping developers understand how relational mappings and repository queries work in real Spring Boot applications.
+This repository serves as a **hands-on learning resource for Spring Data JPA**
 
 ---
 
